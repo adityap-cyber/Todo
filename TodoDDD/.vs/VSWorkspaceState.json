@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TodoDDD.API",
+    "\\TodoDDD.API\\Properties",
+    "\\TodoDDD.Application",
+    "\\TodoDDD.Application\\bin",
+    "\\TodoDDD.Domain",
+    "\\TodoDDD.Domain\\Interfaces",
+    "\\TodoDDD.Infrastructure",
+    "\\TodoDDD.Infrastructure\\Persistence",
+    "\\TodoDDD.Infrastructure\\Repositories"
+  ],
+  "PreviewInSolutionExplorer": false
+}

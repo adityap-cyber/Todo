@@ -1,0 +1,17 @@
+D:\Todo(DDD)\TodoDDD\TodoDDD.Infrastructure\obj\Debug\net8.0\TodoDDD.Infrastructure.csproj.AssemblyReference.cache
+D:\Todo(DDD)\TodoDDD\TodoDDD.Infrastructure\obj\Debug\net8.0\TodoDDD.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Todo(DDD)\TodoDDD\TodoDDD.Infrastructure\obj\Debug\net8.0\TodoDDD.Infrastructure.AssemblyInfoInputs.cache
+D:\Todo(DDD)\TodoDDD\TodoDDD.Infrastructure\obj\Debug\net8.0\TodoDDD.Infrastructure.AssemblyInfo.cs
+D:\Todo(DDD)\TodoDDD\TodoDDD.Infrastructure\obj\Debug\net8.0\TodoDDD.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Todo(DDD)\TodoDDD\TodoDDD.Infrastructure\bin\Debug\net8.0\TodoDDD.Infrastructure.deps.json
+D:\Todo(DDD)\TodoDDD\TodoDDD.Infrastructure\bin\Debug\net8.0\TodoDDD.Infrastructure.dll
+D:\Todo(DDD)\TodoDDD\TodoDDD.Infrastructure\bin\Debug\net8.0\TodoDDD.Infrastructure.pdb
+D:\Todo(DDD)\TodoDDD\TodoDDD.Infrastructure\bin\Debug\net8.0\TodoDDD.Application.dll
+D:\Todo(DDD)\TodoDDD\TodoDDD.Infrastructure\bin\Debug\net8.0\TodoDDD.Domain.dll
+D:\Todo(DDD)\TodoDDD\TodoDDD.Infrastructure\bin\Debug\net8.0\TodoDDD.Application.pdb
+D:\Todo(DDD)\TodoDDD\TodoDDD.Infrastructure\bin\Debug\net8.0\TodoDDD.Domain.pdb
+D:\Todo(DDD)\TodoDDD\TodoDDD.Infrastructure\obj\Debug\net8.0\TodoDDD..4041E68A.Up2Date
+D:\Todo(DDD)\TodoDDD\TodoDDD.Infrastructure\obj\Debug\net8.0\TodoDDD.Infrastructure.dll
+D:\Todo(DDD)\TodoDDD\TodoDDD.Infrastructure\obj\Debug\net8.0\refint\TodoDDD.Infrastructure.dll
+D:\Todo(DDD)\TodoDDD\TodoDDD.Infrastructure\obj\Debug\net8.0\TodoDDD.Infrastructure.pdb
+D:\Todo(DDD)\TodoDDD\TodoDDD.Infrastructure\obj\Debug\net8.0\ref\TodoDDD.Infrastructure.dll

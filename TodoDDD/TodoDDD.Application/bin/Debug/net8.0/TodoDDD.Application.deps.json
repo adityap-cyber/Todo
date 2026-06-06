@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TodoDDD.Application/1.0.0": {
+        "dependencies": {
+          "TodoDDD.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TodoDDD.Application.dll": {}
+        }
+      },
+      "TodoDDD.Domain/1.0.0": {
+        "runtime": {
+          "TodoDDD.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TodoDDD.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TodoDDD.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

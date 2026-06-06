@@ -1,0 +1,15 @@
+D:\Todo(DDD)\TodoDDD\TodoDDD.Application\bin\Debug\net8.0\TodoDDD.Application.deps.json
+D:\Todo(DDD)\TodoDDD\TodoDDD.Application\bin\Debug\net8.0\TodoDDD.Application.dll
+D:\Todo(DDD)\TodoDDD\TodoDDD.Application\bin\Debug\net8.0\TodoDDD.Application.pdb
+D:\Todo(DDD)\TodoDDD\TodoDDD.Application\bin\Debug\net8.0\TodoDDD.Domain.dll
+D:\Todo(DDD)\TodoDDD\TodoDDD.Application\bin\Debug\net8.0\TodoDDD.Domain.pdb
+D:\Todo(DDD)\TodoDDD\TodoDDD.Application\obj\Debug\net8.0\TodoDDD.Application.csproj.AssemblyReference.cache
+D:\Todo(DDD)\TodoDDD\TodoDDD.Application\obj\Debug\net8.0\TodoDDD.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Todo(DDD)\TodoDDD\TodoDDD.Application\obj\Debug\net8.0\TodoDDD.Application.AssemblyInfoInputs.cache
+D:\Todo(DDD)\TodoDDD\TodoDDD.Application\obj\Debug\net8.0\TodoDDD.Application.AssemblyInfo.cs
+D:\Todo(DDD)\TodoDDD\TodoDDD.Application\obj\Debug\net8.0\TodoDDD.Application.csproj.CoreCompileInputs.cache
+D:\Todo(DDD)\TodoDDD\TodoDDD.Application\obj\Debug\net8.0\TodoDDD..FC8C1175.Up2Date
+D:\Todo(DDD)\TodoDDD\TodoDDD.Application\obj\Debug\net8.0\TodoDDD.Application.dll
+D:\Todo(DDD)\TodoDDD\TodoDDD.Application\obj\Debug\net8.0\refint\TodoDDD.Application.dll
+D:\Todo(DDD)\TodoDDD\TodoDDD.Application\obj\Debug\net8.0\TodoDDD.Application.pdb
+D:\Todo(DDD)\TodoDDD\TodoDDD.Application\obj\Debug\net8.0\ref\TodoDDD.Application.dll
